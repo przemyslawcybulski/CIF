@@ -1,7 +1,7 @@
 #!/bin/bash
 #################################################
 ## Autor: Przemyslaw Cybulski			#
-## e-mail: przemyslaw.cybulski@comp.com.pl	#
+## e-mail: przemyslaw@cybulski.waw.pl		#
 ## last update: 23.12.2019			#
 #################################################
 
